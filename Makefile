@@ -1,4 +1,4 @@
-VERSION=3.2-r1
+VERSION=3.2-r2
 
 DOCKER_REGISTRY=registry.uw.systems
 DOCKER_CONTAINER_NAME=chrony
